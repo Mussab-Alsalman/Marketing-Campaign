@@ -1,6 +1,8 @@
+# Summary:
 Analyzed a multi-channel marketing dataset to assess key performance metrics such as ROMI, CAC, and AOV. Identified top-performing campaigns, high-revenue dates, and inefficient spenders. Delivered actionable insights to optimize ad spend and improve overall marketing effectiveness. 
 
-Tools used: python (pandas & numpy)
+# Tools used:
+python (pandas & numpy)
 
 # Analysis Results & Suggestions:
 - overall should improve call to action in 'social & search' due to lower LCR & SCR.
